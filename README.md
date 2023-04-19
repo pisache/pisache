@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pisache, or HoJun.
 - 🏫 I’m a computing science student at Simon Fraser University.
-- 👀 I’m interested in Web app development, Unity engine and data analysis.
+- 👀 I’m into tech in education.
 - 🤔 Keen to learn new things and better myself. 
 
 <!---
